@@ -53,7 +53,11 @@ Personal skills
 - Good concentration on the project
 
 ```
-'use strict';
+function multiply(a, b, c){
+    return a * b * c
+  }
+  
+  console.log(multiply(2022,09,07));
 ```
 
 Education
